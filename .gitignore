@@ -8,6 +8,7 @@
 [Bb]uild/
 [Ll]ogs/
 [Uu]serSettings/
+[Ss]ceneTemplateSettings.json
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
