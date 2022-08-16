@@ -160,7 +160,7 @@ MonoBehaviour:
   webSocketSecure: 0
   webSocketCertificateFilePath: 
   webSocketCertificatePassword: 
-  maxConnections: 4
+  maxConnections: 10000
   transportFactory: {fileID: 2000039043}
 --- !u!4 &2000039042
 Transform:
