@@ -4,3 +4,6 @@
 [submodule "DissonanceServer/Assets/LnlMDissonance"]
 	path = DissonanceServer/Assets/LnlMDissonance
 	url = https://github.com/insthync/LiteNetLibManager-Dissonance-Integration.git
+[submodule "DissonanceServer/Assets/Scripts"]
+	path = DissonanceServer/Assets/Scripts
+	url = https://github.com/insthync/unity-dissonance-server-scripts.git
