@@ -208,6 +208,7 @@ MonoBehaviour:
   webSocketCertificatePassword: 
   maxConnections: 10000
   transportFactory: {fileID: 2000039043}
+  startServerOnStart: 1
   clientInstancePrefab: {fileID: 1912008510}
 --- !u!4 &2000039042
 Transform:
@@ -271,6 +272,7 @@ MonoBehaviour:
   networkManager: {fileID: 2000039041}
   roomName: test
   position: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0}
   join: 0
   setPosition: 0
 --- !u!4 &2081903091440812222
