@@ -201,7 +201,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentLogLevel: 2
   networkAddress: localhost
-  networkPort: 7770
+  networkPort: 3000
   useWebSocket: 0
   webSocketSecure: 0
   webSocketCertificateFilePath: 
