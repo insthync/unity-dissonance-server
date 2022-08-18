@@ -1,0 +1,4 @@
+{
+    "networkPort": 3000,
+    "maxConnections": 10000
+}
