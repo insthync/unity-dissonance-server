@@ -57,3 +57,6 @@ sysinfo.txt
 # Dissonance
 Dissonance/
 Dissonance.meta
+
+# Prebuild files
+[Dd]ocker/build/
