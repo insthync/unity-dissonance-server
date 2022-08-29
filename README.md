@@ -7,3 +7,10 @@ I actually want to make a server outside Unity (May uses .NET6) but I have to le
 - [Dissonance](https://github.com/Placeholder-Software/Dissonance), it is not include in this repo, you have to buy it.
 - [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager)
 - [LiteNetLibManager-Dissonance-Integration](https://github.com/insthync/LiteNetLibManager-Dissonance-Integration)
+
+## How it was built as docker image
+Build from Unity to `./Docker/build` folder with name `App.x86_64`, then use docker build command:
+```
+cd ./Docker
+docker build --pull --rm -f "Dockerfile" -t insthync/dissonanceserver:latest "."
+```
