@@ -55,8 +55,10 @@ sysinfo.txt
 *.idea
 
 # Dissonance
-Dissonance/
-Dissonance.meta
+DissonanceServer/Assets/Dissonance/
+DissonanceServer/Assets/Dissonance.meta
+DissonanceServer/Assets/Plugins/
+DissonanceServer/Assets/Plugins.meta
 
 # Prebuild files
 [Dd]ocker/build/
