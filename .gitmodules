@@ -7,3 +7,6 @@
 [submodule "DissonanceServer/Assets/Scripts"]
 	path = DissonanceServer/Assets/Scripts
 	url = https://github.com/insthync/unity-dissonance-server-scripts.git
+[submodule "DissonanceServer/Assets/AddressableAssetTools"]
+	path = DissonanceServer/Assets/AddressableAssetTools
+	url = https://github.com/insthync/unity-addressable-asset-tools.git
